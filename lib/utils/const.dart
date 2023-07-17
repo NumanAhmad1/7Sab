@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+
+const konboardingActiveDot = Color(0xFFE5BAAB);
+const konboardingDot = Color(0xFFE0E0E0);
+const korange = Color(0xFFEE611C);
+const klightgrey = Color(0xFF8D8D8D);
+const kdarkgrey = Color.fromARGB(255, 62, 62, 62);
+const kprimary = Color(0xFF8C173B);
+const kprimarycolor1 = Color(0xFF8C173B);
+const kprimarycolor2 = Color(0xFFC52E5C);
+const kgreen = Color(0xFF548E65);
+const kred = Color(0xFFE2474B);
+const kerrorcolor = Color(0xFFFC2A2A);
+const ktexteditabovecolor = Color(0xFFFC2A2A);
+const kwhite = Colors.white;
+const kblack = Colors.black;
+const klabelcolor = Color(0xFFD2D2D2);
+const kdarkblue = Color(0xFF280659);
+const klinkcolor = Color(0xFF280659);
+const kuncheckedborder = Color(0xFF939393);
+const kcheckboxtxtcolor = Color(0xFF333942);
